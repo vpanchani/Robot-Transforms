@@ -6,6 +6,7 @@ It also establishes a link between parent and child node. Staring from wordlink,
 
 To run the program - 
 Use catkin_make to compile 
+
 Run in different terminals - 
 - roscore, 
 - rosparam set robot_description --textfile kuka_lwr_arm.urdf
